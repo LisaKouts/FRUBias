@@ -17,7 +17,7 @@ pip install fairfru
 import fairfru
 ```
 
-See the `Measuring_bias.ipynb` notebook in the `src/fairfu` folder or an example.
+See the `Measuring_bias.ipynb` notebook in the `src/fairfu` folder for an example.
 
 ## Contributing
 
